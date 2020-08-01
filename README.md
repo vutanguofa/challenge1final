@@ -6,7 +6,7 @@ HTML CSS Git Challenge: Code Refactor challenge one completed.
 
 ## Screenshot
 
-![challenge1final](https://user-images.githubusercontent.com/68674610/89105625-81f57d00-d3d7-11ea-922f-c3af325e2c1e.png)
+![challenge1final](https://user-images.githubusercontent.com/68674610/89106464-ea942800-d3de-11ea-8143-a12ff0a8e70a.png)
 
 ## Link to deployed application
 
