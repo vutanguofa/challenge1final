@@ -10,5 +10,5 @@ HTML CSS Git Challenge: Code Refactor challenge one completed.
 
 ## Link to deployed application
 
-[Link to deployed application](https://github.com/vutanguofa/challenge1final)
+[Link to deployed application](https://github.com/vutanguofa/challenge1final/tree/master/.github/workflows)
 
